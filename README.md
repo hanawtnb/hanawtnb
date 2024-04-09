@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanawtnb&layout=donut)](https://github.com/hanawtnb/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanawtnb&layout=donut)](https://github.com/hanawtnb/github-readme-stats)-->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanawtnb&theme=panda)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hanawtnb&theme=panda)
+
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,aws,docker,figma,firebase,graphql,jest,materialui,mongodb,mysql,nestjs,nextjs,npm,yarn,postman,postgres,powershell,prisma,react,redux,sass,styledcomponents,sentry,vercel)](https://skillicons.dev)
