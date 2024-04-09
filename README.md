@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanawtnb&layout=donut)](https://github.com/hanawtnb/github-readme-stats)
+
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,aws,docker,figma,firebase,graphql,jest,materialui,mongodb,mysql,nestjs,nextjs,npm,yarn,postman,postgres,powershell,prisma,react,redux,sass,styledcomponents,sentry,vercel)](https://skillicons.dev)
